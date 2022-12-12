@@ -1,0 +1,42 @@
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: black;
+    line-height: 1.5px;
+}
+
+.greeting {
+    font-size: 36px;
+    color: #16171c;
+    line-height: 1.2px;
+    text-transform: uppercase;
+}
+
+.secondLevel {
+    font-size: 30px;
+    line-height: 1.2px;
+    text-decoration: underline;
+}
+
+.list {
+    font-size: 20px;
+    font-style: oblique;
+    list-style-type: square;
+}
+
+.table td, .table th{
+    border: 1px solid black;
+    padding: 5px 10px 5px 10px;
+} 
+
+.table {
+    width: 700px;
+}
+
+.table thead, .table tfoot{
+    background-color: blanchedalmond;
+}
+
+.table tfoot{
+    text-align: right;
+}
